@@ -19,6 +19,7 @@ This repository contains my C programming journey as a 1st year ECE student. Sta
 - 14 - voting eligibility
 - 15 - swapping
 - 16 - percentage
+- 17 - average of 3 numbers
 ### 🛠️ Tech
 - Language: C
 - Compiler: GCC / OnlineGDB
