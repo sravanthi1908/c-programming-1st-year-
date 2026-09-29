@@ -15,7 +15,10 @@ This repository contains my C programming journey as a 1st year ECE student. Sta
 - 10 - Largest of two numbers
 - 11 - Largest of three numbers
 - 12 - Leap Year Check
-
+- 13 - vowel or consonant
+- 14 - voting eligibility
+- 15 - swapping
+- 16 - percentage
 ### 🛠️ Tech
 - Language: C
 - Compiler: GCC / OnlineGDB
